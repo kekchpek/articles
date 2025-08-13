@@ -171,7 +171,7 @@ namespace Components
         
         private void Update()
         {
-            var img = this.GetComponent<Image>(); // ЭТО БУДТЕ РАБОТАТЬ МЕДЛЕННО
+            var img = this.GetComponent<Image>(); // ЭТО БУДЕТ РАБОТАТЬ МЕДЛЕННО
             
             // Тут немного несложной математики. Не буду объяснять.
             // Кому интересно, можно разобраться самостоятельно.
